@@ -1,9 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89b9cf8a-e832-48bb-bddb-f0c72edf1619" name="Default" comment="" />
+    <list default="true" id="89b9cf8a-e832-48bb-bddb-f0c72edf1619" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ActiveOrders.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ActiveOrders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/AdminContent.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/AdminContent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/Agent.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/Agent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/AgentService.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/AgentService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/AgentServiceImpl$1.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/AgentServiceImpl$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/AgentServiceImpl.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/AgentServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/Alert.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/Alert.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/ArgumentManager.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/ArgumentManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/com/botbox/util/ArrayQueue.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/com/botbox/util/ArrayQueue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/com/botbox/util/ArrayUtils.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/com/botbox/util/ArrayUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/BOMBundle.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/BOMBundle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/BankStatus.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/BankStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/BarDiagram.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/BarDiagram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransport.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransport.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransportReader.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransportReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransportWriter.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/BinaryTransportWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ComponentCatalog.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ComponentCatalog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/ConfigManager.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/ConfigManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/Context.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/Context.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/DeliveryNotice.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/DeliveryNotice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/DeliverySchedule.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/DeliverySchedule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/DotDiagram.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/DotDiagram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/agent/example/ExampleAgent.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/agent/example/ExampleAgent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/FactoryStatus.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/FactoryStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/FormatUtils.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/FormatUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/IllegalConfigurationException.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/IllegalConfigurationException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/InfoViewer.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/InfoViewer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/InventoryStatus.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/InventoryStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/LogFormatter.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/util/LogFormatter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/Main.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo$1.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo$2.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/ManufacturerInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/MarketReport$SupplierData.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/MarketReport$SupplierData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/MarketReport.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/MarketReport.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/Message.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/Message.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/MessageModel.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/MessageModel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/MessageRenderer.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/gui/MessageRenderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/MessageSender.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/MessageSender.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/OfferBundle.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/OfferBundle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/Order.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/Order.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/OrderBundle.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/OrderBundle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/OrderStore.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/OrderStore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/Ping.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/Ping.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/PriceReport.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/PriceReport.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ProductionSchedule.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ProductionSchedule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/RFQBundle.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/RFQBundle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/RFQStore.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/RFQStore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/SCMAgent.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/tac03/aw/SCMAgent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SCMInfo.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SCMInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ServerConfig.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/ServerConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/ServerConnection.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/ServerConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient$1.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient$2.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/SimClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SimpleContent.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SimpleContent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SimulationStatus.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/SimulationStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/StartInfo.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/props/StartInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/StatusInfo$1.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/StatusInfo$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/StatusInfo.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/client/StatusInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/TimeListener.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/tasim/aw/TimeListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/TransportReader.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/TransportReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/TransportWriter.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/TransportWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/Transportable.class" afterPath="$PROJECT_DIR$/bin/production/scm2015/se/sics/isl/transport/Transportable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java" afterPath="$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scm2015.iml" afterPath="$PROJECT_DIR$/.idea/scm2015.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="scm2015.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,70 +86,63 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="scm2015" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExampleAgent.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ExampleAgent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4890">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChadSCMAgent.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ChadSCMAgent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24311927" vertical-offset="1641" max-vertical-offset="4320">
-              <caret line="150" column="60" selection-start-line="150" selection-start-column="60" selection-end-line="150" selection-end-column="60" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="128" column="50" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
+              <folding>
+                <element signature="e#5810#6229#0" expanded="true" />
+                <element signature="e#6228#6229#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Agent.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Agent.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1050" max-vertical-offset="1740">
+            <state vertical-scroll-proportion="0.0">
               <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aw.conf" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aw.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.6" vertical-offset="15" max-vertical-offset="810">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.058486238">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -90,6 +155,9 @@
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -98,23 +166,23 @@
     </option>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/agent/example/ExampleAgent.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/aw.conf" />
-        <option value="$PROJECT_DIR$/src/agent/chadscm/SCMAgent.java" />
         <option value="$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="18" />
-    <option name="width" value="1364" />
-    <option name="height" value="749" />
+  <component name="NamedScopeManager">
+    <order />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -140,6 +208,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,9 +217,15 @@
               <option name="myItemId" value="scm2015" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemId" value="scm2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tacscm2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -158,22 +234,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scm2015" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scm2015" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scm2015" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="tacscm2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -182,16 +248,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scm2015" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="tacscm2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="agent" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -200,26 +266,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scm2015" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="tacscm2015" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="agent" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chadscm" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +309,26 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -265,6 +350,72 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -274,6 +425,7 @@
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -300,74 +452,8 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="false" name="Client" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="se.sics.tasim.aw.client.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -399,37 +485,39 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="89b9cf8a-e832-48bb-bddb-f0c72edf1619" name="Default" comment="" />
       <created>1428606922151</created>
+      <option name="number" value="Default" />
       <updated>1428606922151</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="18" width="1364" height="749" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12463343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.124200426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -443,13 +531,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -458,23 +542,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4890">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3425" max-vertical-offset="4770">
-          <caret line="254" column="0" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#5810#6229#0" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -482,23 +572,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1050" max-vertical-offset="1740">
+        <state vertical-scroll-proportion="0.0">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aw.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="810">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
@@ -506,15 +588,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4890">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#5810#6229#0" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -522,7 +618,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1335">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="254" column="0" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding>
+            <element signature="e#5810#6229#0" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding />
         </state>
@@ -530,15 +707,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="4890">
+        <state vertical-scroll-proportion="0.0">
           <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -546,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1335">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
           <folding />
         </state>
@@ -554,62 +734,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/botbox/util/ArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6225">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/isl/gui/BarDiagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09174312" vertical-offset="0" max-vertical-offset="4215">
+        <state vertical-scroll-proportion="0.09174312">
           <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/Agent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2760">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="1335">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/agent/example/ExampleAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4305">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="320" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="50" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
+          <folding>
+            <element signature="e#5810#6229#0" expanded="true" />
+            <element signature="e#6228#6229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/sics/tasim/aw/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aw.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.6" vertical-offset="15" max-vertical-offset="810">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/agent/chadscm/ChadSCMAgent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24311927" vertical-offset="1641" max-vertical-offset="4320">
-          <caret line="150" column="60" selection-start-line="150" selection-start-column="60" selection-end-line="150" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.058486238">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -654,7 +832,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -702,4 +880,3 @@
     </states>
   </component>
 </project>
-

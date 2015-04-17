@@ -30,6 +30,8 @@ import se.sics.tasim.props.*;
 import se.sics.tasim.tac03.aw.Order;
 import se.sics.tasim.tac03.aw.OrderStore;
 
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Random;
 import java.util.logging.Logger;
 
@@ -130,8 +132,7 @@ public class ChadSCMAgent extends se.sics.tasim.tac03.aw.SCMAgent {
             // See the comments in the beginning of this file.
             if ((dueDate - currentDate) >= 6 && (dueDate <= lastBidDueDate)) {
                 int resPrice = rfqBundle.getReservePricePerUnit(i);
-                int offeredPrice = (int)
-                        (resPrice * (1.0 - random.nextDouble() * priceDiscountFactor));
+                int offeredPrice = (int)(resPrice *1.5);
                 addCustomerOffer(rfqBundle, i, offeredPrice);
             }
         }
@@ -140,6 +141,7 @@ public class ChadSCMAgent extends se.sics.tasim.tac03.aw.SCMAgent {
         sendCustomerOffers();
     }
 
+    double timeDecayFactor = 0.1;
     /**
      * Called when a bundle of orders have been received from the
      * customers. In TAC03 SCM the customers only send one order bundle
@@ -151,8 +153,17 @@ public class ChadSCMAgent extends se.sics.tasim.tac03.aw.SCMAgent {
     protected void handleCustomerOrders(Order[] newOrders) {
         // Add the component demand for the new customer orders
         BOMBundle bomBundle = getBOMBundle();
+        Order[] sortedOrders = Arrays.copyOf(newOrders, newOrders.length);
+        Arrays.sort(newOrders, new Comparator<Order>() {
+            @Override
+            public int compare(Order o1, Order o2) {
+                double td1 = Math.exp(timeDecayFactor*(o1.getDueDate()-getCurrentDate()));
+                double td2 = Math.exp(timeDecayFactor*(o2.getDueDate()-getCurrentDate()));
+                return (o1.getUnitPrice()*o1.getQuantity()*td1 > o2.getUnitPrice()*o2.getQuantity()*td2 ? -1:1);
+            }
+        });
         for (int i = 0, n = newOrders.length; i < n; i++) {
-            Order order = newOrders[i];
+            Order order = sortedOrders[i];
             int productID = order.getProductID();
             int quantity = order.getQuantity();
             int[] components = bomBundle.getComponentsForProductID(productID);
@@ -176,6 +187,7 @@ public class ChadSCMAgent extends se.sics.tasim.tac03.aw.SCMAgent {
                     // Order all components from one supplier chosen by random
                     // for simplicity.
                     int supIndex = random.nextInt(suppliers.length);
+
 
                     addSupplierRFQ(suppliers[supIndex], productID, quantity,
                             0, currentDate + 2);
@@ -262,7 +274,6 @@ public class ChadSCMAgent extends se.sics.tasim.tac03.aw.SCMAgent {
                     cancelCustomerOrder(order);
 
                 } else if (inventoryQuantity >= orderedQuantity) {
-
                     // There is enough products in the inventory to fulfill this
                     // order and nothing more should be produced for it. However
                     // to avoid reusing these products for another order they
