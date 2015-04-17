@@ -1,0 +1,12 @@
+09/04 15:22:46 FINER client.SimClient|creating agent instance of agent.example.ExampleAgent
+09/04 15:22:46 FINE client.ServerConnection|(1) connecting to server tac5.sics.se at port 6502
+09/04 15:22:47 FINE client.ServerConnection|(1) connected to server tac5.sics.se
+09/04 15:22:47 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[auth,[name=ChadSCM,password=scm2015,client.version=0.9.6]]]
+09/04 15:22:47 FINEST client.SimClient|(1) received adminContent[auth,not authenticated,No user with name 'ChadSCM' found,[]]
+09/04 15:22:47 SEVERE client.SimClient|************************************************************
+09/04 15:22:47 SEVERE client.SimClient|* Authentication Failed
+09/04 15:22:47 SEVERE client.SimClient|* could not login as ChadSCM: No user with name 'ChadSCM' found
+09/04 15:22:47 SEVERE client.SimClient|************************************************************
+09/04 15:22:47 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[quit,[]]]
+09/04 15:22:48 FINEST client.ServerConnection|(1) received Message[admin,ChadSCM,adminContent[quit,[]]]
+09/04 15:22:48 FINE client.ServerConnection|(1) disconnected from server tac5.sics.se

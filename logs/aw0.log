@@ -1,0 +1,29 @@
+09/04 16:59:42 FINER client.SimClient|creating agent instance of agent.example.ExampleAgent
+09/04 16:59:42 FINE client.ServerConnection|(1) connecting to server tac01.tel.fer.hr at port 6502
+09/04 16:59:42 FINE client.ServerConnection|(1) connected to server tac01.tel.fer.hr
+09/04 16:59:42 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[auth,[name=ChadSCM,password=scm2015,client.version=0.9.6]]]
+09/04 16:59:43 FINEST client.SimClient|(1) received adminContent[auth,[server.version=0.8.19]]
+09/04 16:59:43 FINER client.ServerConnection|(1) successfully logged in as ChadSCM
+09/04 16:59:43 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[server time,[]]]
+09/04 16:59:43 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[join simulation,[]]]
+09/04 16:59:43 FINEST client.SimClient|(1) received adminContent[server time,[time=1428616760393]]
+09/04 21:59:20 FINEST client.SimClient|(1) received adminContent[join simulation,[type=tac06scm,startTime=1428616920000,role=PCManufacturer]]
+09/04 21:59:20 INFO client.SimClient|next simulation starts in 159 seconds
+09/04 21:59:20 INFO client.SimClient|[will reconnect in 2 minutes, 24 seconds]
+09/04 21:59:20 FINEST client.ServerConnection|(1) sending Message[ChadSCM,admin,adminContent[quit,[]]]
+09/04 21:59:20 FINEST client.ServerConnection|(1) received Message[admin,ChadSCM,adminContent[quit,[]]]
+09/04 21:59:20 FINE client.ServerConnection|(1) disconnected from server tac01.tel.fer.hr
+09/04 22:01:45 FINE client.ServerConnection|(2) connecting to server tac01.tel.fer.hr at port 6502
+09/04 22:01:45 FINE client.ServerConnection|(2) connected to server tac01.tel.fer.hr
+09/04 22:01:45 FINEST client.ServerConnection|(2) sending Message[ChadSCM,admin,adminContent[auth,[name=ChadSCM,password=scm2015,client.version=0.9.6]]]
+09/04 22:01:45 FINEST client.SimClient|(2) received adminContent[auth,[server.version=0.8.19]]
+09/04 22:01:45 FINER client.ServerConnection|(2) successfully logged in as ChadSCM
+09/04 22:01:45 FINEST client.ServerConnection|(2) sending Message[ChadSCM,admin,adminContent[server time,[]]]
+09/04 22:01:46 FINEST client.SimClient|(2) received adminContent[server time,[time=1428616906423]]
+09/04 22:01:59 FINEST client.SimClient|(2) received Message[coordinator,man1,startInfo[5878,1428616920000,3300000,15,[customer.daysBeforeVoid=5,factory.address=factory1,factory.capacity=2000,factory.storageCost=34,bank.interestRate=11,bank.depositInterestRate=5,manufacturer.count=6,manufacturer.1=ChadSCM,manufacturer.2=Dummy,manufacturer.3=Dummy-2,manufacturer.4=Dummy-3,manufacturer.5=Dummy-4,manufacturer.6=Dummy-5]]]
+09/04 22:01:59 FINE client.SimClient|Entering log for simulation 5878
+************************************************************
+* Entering log for simulation 5878
+************************************************************
+
+
